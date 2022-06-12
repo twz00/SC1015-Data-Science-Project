@@ -17,7 +17,7 @@ To run the entire project, upload these 5 data files:
 Individual Contributions:
 
 Wei Zhong
-Problem Formulation
+- Problem Formulation
 - EDA and visualisation
 - Data-Driven Insights and recommendations
 - Presentation Slides
@@ -27,9 +27,9 @@ Kris
 - Data Preparation and cleaning
 - EDA and visualisation
 - Presentation Slides
-- Bryan
 
-Problem Formulation
+Bryan
+- Problem Formulation
 - EDA and visualisation
 - Machine Learning
 - Presentation Slides
